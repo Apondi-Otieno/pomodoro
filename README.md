@@ -1,5 +1,5 @@
 # Title
-Pomodoro
+### Pomodoro
 
 # Team 
 Apondi Otieno
@@ -14,3 +14,6 @@ Pomodoro is a timer app for workaholics who don't know when to take a break. Cli
 # Set-up
 
 # License
+MIT License
+
+Copyright (c) 2022 Apondi Otieno
